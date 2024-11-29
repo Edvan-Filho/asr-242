@@ -1,12 +1,9 @@
 # Administração de Serviços de Redes - IFCE
 
-Fazer um tutorial de configuração de uma Imagem de uma máquina Virtual no Oracle Virtual Box. 
-Obter uma imagem do Lubuntu Linux no site https://www.osboxes.org/virtualbox-images/.
-Extrair o arquivo da imagem e usa-la na criação da maquina virtual Lubuntu. 
-O Tutorial deve identificar cada etapa com a descrição e a captura da imagem correspondente a etapa que está sendo descrita. 
-Gerar um PDF do Tutorial.
-Inserir o PDF na pasta Atividade-03 do repositório criado no Github.
-Entregar a atividade postando o link do da pasta Atividade-03 do Github no Classroom.
+Os exercícios evidenciados na plataforma GitHub poderão compor uma nota de Atividade que será somada às demais atividades da etapa.
+  
+As Atividades definidas na plataforma Google Classroom serão evidenciadas por links que apontaram para o repositório respectivo de cada aluno na plataforma GitHub.
 
+Os exercícios e atividades deverão ter um pasta no repositório de cada aluno e cada exercício será alocado em uma subpasta. Cada subpasta de um exercício e/ou avaliação terá um arquivo README.md onde estará descrito o que deverá ser realizado para o exercício e/ou avaliação. Nas pastas de cada exercício ou atividade constarão os fontes e arquivos que evidenciam a realização de cada atividade ou exercício.
 
  
